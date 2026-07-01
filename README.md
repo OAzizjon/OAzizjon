@@ -7,7 +7,7 @@ My main language is **Python**.
 
 I speak 3 languages — Uzbek and Russian (native), and English (B1 level) — and as of July 2026 I've just started learning Spanish.
 
-I'm proficient with core libraries (`os`, `time`, etc.), `sqlite3`/`aiosqlite`, `logging`, `python-dotenv`, and more niche ones like `aiogram`, `phonenumbers`, `bcrypt`. I live for this process — writing code and thinking through business logic. For me, Python isn't just a programming language, but sometimes it's a **little** annoying :).
+I'm proficient with core libraries (`os`, `time`, etc.), `sqlite3`/`aiosqlite`, `logging`, `dotenv`, and more niche ones like `aiogram`, `phonenumbers`, `bcrypt`. I live for this process — writing code and thinking through business logic. For me, Python isn't just a programming language, but sometimes it's a **little** annoying :).
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![aiogram](https://img.shields.io/badge/aiogram-grey?style=flat-square)
