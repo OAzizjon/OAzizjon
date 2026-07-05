@@ -5,7 +5,7 @@ I've been learning programming since mid-2025.
 
 My main language is **Python**.
 
-I speak 3 languages — Uzbek and Russian (native) and English (B1 level)  — and as of July 2026 I've just started learning Spanish.I also understand Kazakh because Uzbek and Kazakh languages are very clouse to each other.
+I speak about 4 languages — Uzbek and Russian (native) and English (B1 level)  — and as of July 2026 I've just started learning Spanish.I also understand Kazakh because Uzbek and Kazakh languages are very clouse to each other.
 
 I'm proficient with core libraries (`os`, `time`, etc.), `sqlite3`/`aiosqlite`, `logging`, `dotenv`, and more niche ones like `aiogram`, `phonenumbers`, `bcrypt`. I live for this process — writing code and thinking through business logic. For me, Python isn't just a programming language, but sometimes it's a **little** annoying :).
 
